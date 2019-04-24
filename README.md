@@ -1,2 +1,8 @@
-# Algoritmos-e-Estrutura-de-Dados-Python
-Pilha, matrizes, árvore binária, etc...
+# Algoritmos e Estruturade Dados Python
+
+## Pilhas(Stack)
+É uma estrutura de dados baseado no princípio de 'Last in First Out(LIFO)', ou seja,
+"o último que entra é o primeiro a sair" caracterizando empilhamento de dados.
+Pilhas são fundamentalmente compostas por duas operações: push(empilhar) que 
+adiciona elemento no topo da pilha, e pop(desempilhar) que remove o último 
+elemento da pilha.
