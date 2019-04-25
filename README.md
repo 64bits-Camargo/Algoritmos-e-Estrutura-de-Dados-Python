@@ -1,4 +1,4 @@
-# Algoritmos e Estruturade Dados Python
+# Algoritmos e Estrutura de Dados Python
 
 ## Pilhas(Stack)
 É uma estrutura de dados baseado no princípio de 'Last in, First out(LIFO)', ou seja,
