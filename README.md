@@ -9,7 +9,7 @@ elemento da pilha.
 
 ## Matrizes
 Uma matriz é uma coleção de variáveis de mesmo tipo, acessíveis com um único nome e
-arnazenados contiguamente na memória. A individualização de cada variável de um vetor é
+armazenados contiguamente na memória. A individualização de cada variável de um vetor é
 feita atráves do uso de índices. Os Vetores são matrizes de uma só dimensão. Enquanto matrizes são multidimensionais. 
 
 ## Fila(Queue)
