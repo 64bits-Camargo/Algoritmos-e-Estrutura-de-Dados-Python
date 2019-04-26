@@ -13,6 +13,6 @@ armazenados contiguamente na memória. A individualização de cada variável de
 feita atráves do uso de índices. Os Vetores são matrizes de uma só dimensão. Enquanto matrizes são multidimensionais. 
 
 ## Fila(Queue)
-Semelhante a estrutura de de dados de Pilhas, na Fila o princípio é de 'First in, First out(FIFO)
+Semelhante a estrutura de dados de Pilhas, na Fila o princípio é de 'First in, First out(FIFO)
 nesse caso o primeiro elemento inserido é o primeiro elemento a sair da fila.
 
